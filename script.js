@@ -450,7 +450,7 @@ function draw() {
   // Squirrel Animation
   squirrelY -= 1;
   if (squirrelY < 160) {
-    squirrelY = 600;
+    squirrelY = 160;
   }
   // ball animation
   ballX += 1;
